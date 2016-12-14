@@ -12,6 +12,7 @@ Ser una página dinámica y responsive que te permita encontrar y elegir a trave
 
 
 2. USUARIO (TARGET)
+| 10 | Programa que pida 3 numeros y al final imprima los numeros del 1 al 15 menos los numeros capturados.
 
 Personas que esten en busca de alojamiento.
 
