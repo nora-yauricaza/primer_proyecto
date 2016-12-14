@@ -35,10 +35,9 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 * Nora Yauricaza.
 * Lezmit Galarza.
 
-
-
-
 4. REQUERIMIENTOS
 
 
-![Resultados]()
+![](http://3.1m.yt/BO2OdBp.jpg)
+
+![](http://4.1m.yt/BrMNVl5.jpg)
