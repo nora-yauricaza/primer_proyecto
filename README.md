@@ -6,18 +6,17 @@
 
 ##PROYECTO
 
-1. OBJETIVO
+. 1 OBJETIVO
 
 Ser una página dinámica y responsive que te permita encontrar y elegir a traves de una lista perfecta de lugares para alojarte cuando te encuentres de viaje y/o simplemente busques descansar. 
 
 
-2. USUARIO (TARGET)
-| 10 | Programa que pida 3 numeros y al final imprima los numeros del 1 al 15 menos los numeros capturados.
+. 2 USUARIO (TARGET)
 
 Personas que esten en busca de alojamiento.
 
 
-3. PLANEACIÓN Y DESARROLLO
+. 3 PLANEACIÓN Y DESARROLLO
 
 El trabajo de la web se trabajo por medio de varias prácticas (pair programming, product backlog) de metodologías y frameworks ágiles como Scrum y Kanban.
 
