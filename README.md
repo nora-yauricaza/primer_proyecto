@@ -45,10 +45,10 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 
 ![](http://4.1m.yt/BrMNVl5.jpg)
 
-* Iniciar sesión
-![](http://3.1m.yt/wLP_Mk.jpg) 
-
 * Anfitrión
 ![](http://3.1m.yt/izx38Ex.jpg)
 
 ![](http://1.1m.yt/phSZMBQ.jpg)
+
+* Iniciar sesión
+![](http://3.1m.yt/wLP_Mk.jpg) 
