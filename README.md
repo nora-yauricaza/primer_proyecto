@@ -1,5 +1,7 @@
 # airbnb
 
+* Logo
+
 ![](http://2.1m.yt/3II5Zd2.png)
 
 ##PROYECTO
@@ -18,7 +20,10 @@ Personas que esten en busca de alojamiento.
 
 El trabajo de la web se trabajo por medio de varias prácticas (pair programming, product backlog) de metodologías y frameworks ágiles como Scrum y Kanban.
 
+* Slack
 ![](http://2.1m.yt/EjETkuF.jpg)
+
+* Trello
 ![](http://2.1m.yt/DsbTSGF.jpg)
 
 **WORKFLOW**
@@ -37,10 +42,12 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 
 4. REQUERIMIENTOS
 
+* index.html
 ![](http://3.1m.yt/BO2OdBp.jpg)
 
 ![](http://4.1m.yt/BrMNVl5.jpg)
 
+* anfitrion.html
 ![](http://3.1m.yt/wLP_Mk.jpg) 
 
 ![](http://3.1m.yt/izx38Ex.jpg)
