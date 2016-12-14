@@ -16,9 +16,9 @@ Personas que esten en busca de alojamiento.
 
 3. PLANEACIÓN Y DESARROLLO
 
-El trabajo de la web se trabajo por medio de varias prácticas (pair programming, product backlog) de metologías y frameworks ágiles como Scrum y Kanban.
+El trabajo de la web se trabajo por medio de varias prácticas (pair programming, product backlog) de metodologías y frameworks ágiles como Scrum y Kanban.
 
-![Slack]()
+![](http://3.1m.yt/ctIPwzi.jpg)
 ![Trello]()
 
 **WORKFLOW**
