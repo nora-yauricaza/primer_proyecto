@@ -18,8 +18,8 @@ Personas que esten en busca de alojamiento.
 
 El trabajo de la web se trabajo por medio de varias prácticas (pair programming, product backlog) de metodologías y frameworks ágiles como Scrum y Kanban.
 
-![](http://3.1m.yt/ctIPwzi.jpg)
-![Trello]()
+![](http://2.1m.yt/EjETkuF.jpg)
+![](http://2.1m.yt/DsbTSGF.jpg)
 
 **WORKFLOW**
 
