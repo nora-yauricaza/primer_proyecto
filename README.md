@@ -2,10 +2,6 @@
 
 ![](http://2.1m.yt/3II5Zd2.png)
 
-
-
-
-
 ##PROYECTO
 
 1. OBJETIVO
@@ -27,7 +23,7 @@ El trabajo de la web se trabajo por medio de varias prácticas (pair programming
 
 **WORKFLOW**
 
-En base a los requerimientos se trabajó en un product backlog del que se priorizó las historias de usuario para el desarollo de dos MVPs.
+En base a los requerimientos se trabajó en un product backlog del que se priorizó las historias de usuario para el desarrollo de dos MVPs.
 
 **TEAM MEMBERS**
 
