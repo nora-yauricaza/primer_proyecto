@@ -37,7 +37,12 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 
 4. REQUERIMIENTOS
 
-
 ![](http://3.1m.yt/BO2OdBp.jpg)
 
 ![](http://4.1m.yt/BrMNVl5.jpg)
+
+![](http://3.1m.yt/wLP_Mk.jpg) 
+
+![](http://3.1m.yt/izx38Ex.jpg)
+
+![](http://1.1m.yt/phSZMBQ.jpg)
