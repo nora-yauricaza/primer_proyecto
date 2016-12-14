@@ -1,8 +1,6 @@
 # airbnb
 
-* Logo
-
-![](http://2.1m.yt/3II5Zd2.png)
+![](http://1.1m.yt/ueAHb-m.png)
 
 ##PROYECTO
 
@@ -42,7 +40,7 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 
 . 4 REQUERIMIENTOS
 
-* index.html
+* Home
 ![](http://3.1m.yt/BO2OdBp.jpg)
 
 ![](http://4.1m.yt/BrMNVl5.jpg)
@@ -50,7 +48,7 @@ En base a los requerimientos se trabajó en un product backlog del que se priori
 * Iniciar sesión
 ![](http://3.1m.yt/wLP_Mk.jpg) 
 
-* anfitrion.html
+* Anfitrion
 ![](http://3.1m.yt/izx38Ex.jpg)
 
 ![](http://1.1m.yt/phSZMBQ.jpg)
