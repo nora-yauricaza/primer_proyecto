@@ -11,7 +11,7 @@
 Ser una página dinámica y responsive que te permita encontrar y elegir a traves de una lista perfecta de lugares para alojarte cuando te encuentres de viaje y/o simplemente busques descansar. 
 
 
-111. USUARIO (TARGET)
+2. USUARIO (TARGET)
 
 Personas que esten en busca de alojamiento.
 
